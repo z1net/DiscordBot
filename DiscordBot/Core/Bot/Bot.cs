@@ -40,7 +40,7 @@ namespace DiscordBot.Core.Bot
 
             DiscordConfiguration parameters = new DiscordConfiguration
             {
-                Token = "NzUxODI4MDM5ODkzMjU0MzI0.X1OwbQ.a4hsTKF4tiI164oCPSwhpBW2DdA",
+                Token = "",
                 TokenType = TokenType.Bot,
                 AutoReconnect = true,
                 MinimumLogLevel = LogLevel.Debug,
